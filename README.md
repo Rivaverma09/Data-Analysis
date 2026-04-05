@@ -45,13 +45,4 @@ Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
 Data Visualization
 Analytical and Problem-Solving Skills
-How to Run
-git clone https://github.com/your-username/data-analysis.git
-cd data-analysis
-pip install -r requirements.txt
-jupyter notebook
-Notes
-Update dataset file paths before running the notebooks.
-Datasets are not included due to size or access restrictions.
-Author
-Riva Verma
+
